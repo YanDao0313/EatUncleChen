@@ -10,17 +10,17 @@
 
 小游戏：吃掉小叔叔
 
-[b站主页](https://space.bilibili.com/382294894)
+[叔叔主页](https://space.bilibili.com/208259)
 |
 [线上版本](https://蒙古上单.cn)
 |
-[Github Pages](https://yandao0313.github.io/modified_eat-mikoto)
+[Github Pages](https://yandao0313.github.io/EatUncleChen)
 |
 [我的小站](https://www.daoblog.top)
 
 ---------------
 
-## 可选功能（我没做）
+## 可选功能（我这版没部署）
 
 简易排行榜(日/周/月) 不推荐使用
 

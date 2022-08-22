@@ -1,28 +1,26 @@
-<p align="center">
-  <a href="https://xingye.me/game/eatkano"><img src="https://github.com/arcxingye/EatKano/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatKano"></a>
-</p>
-<div align="center">
+***警告⚠：这只是一个个人练手的项目，主要是玩梗，不要过激！***  ~>_<~
 
-# EatKano
+# EatUncleChen
 
-_🦌 网页小游戏 🥛_
+网页小游戏
 
-</div>
-
+![叔叔我呀，是真的___](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/eatunclechen.png)
 
 ## 简介
 
-小游戏：吃掉小鹿乃
+小游戏：吃掉小叔叔
 
-[English](README_EN.md)
+[b站主页](https://space.bilibili.com/382294894)
 |
-[鹿乃b站](https://space.bilibili.com/316381099)
+[线上版本](https://蒙古上单.cn)
 |
-[线上版本](https://xingye.me/game/eatkano/index.php)
+[Github Pages](https://yandao0313.github.io/modified_eat-mikoto)
 |
-[Github Pages](https://arcxingye.github.io/EatKano/index.html)
+[我的小站](https://www.daoblog.top)
 
-## 可选功能
+---------------
+
+## 可选功能（我没做）
 
 简易排行榜(日/周/月) 不推荐使用
 
@@ -100,4 +98,6 @@ _🦌 网页小游戏 🥛_
 
 ## 其它事项
 
-点下star吧~ 欢迎pr代码
+***仅为调侃，没有人身攻击，侵删！***
+
+点下star吧~

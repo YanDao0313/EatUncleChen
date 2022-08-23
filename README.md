@@ -16,6 +16,8 @@
 |
 [Github Pages](https://yandao0313.github.io/EatUncleChen)
 |
+[CF Pages 镜像](https://eatchenrui.pages.dev/)
+|
 [我的小站](https://www.daoblog.top)
 
 ---------------

@@ -12,11 +12,11 @@
 
 [叔叔主页](https://space.bilibili.com/208259)
 |
-[Vercel项目](https://蒙古上单.cn)
+[Vercel 项目](https://蒙古上单.cn)
 |
 [Github Pages](https://yandao0313.github.io/EatUncleChen)
 |
-[CF Pages 镜像](https://eatchenrui.pages.dev/)
+[CF Pages - 镜像](https://eatchenrui.pages.dev/)
 |
 [我的小站](https://www.daoblog.top)
 

@@ -12,7 +12,7 @@
 
 [叔叔主页](https://space.bilibili.com/208259)
 |
-[香港镜像](https://蒙古上单.cn)
+[Vercel项目](https://蒙古上单.cn)
 |
 [Github Pages](https://yandao0313.github.io/EatUncleChen)
 |

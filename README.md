@@ -4,7 +4,7 @@
 
 网页小游戏
 
-![叔叔我呀，是真的___](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/eatunclechen.png)
+![叔叔我呀，是真的___](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/NEW-eat-uncle-chen.png)
 
 ## 简介
 

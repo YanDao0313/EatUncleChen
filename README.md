@@ -1,10 +1,10 @@
-***警告⚠：这只是一个个人练手的项目，主要是玩梗，不要过激！***  ~>_<~
+***警告⚠：这只是一个个人练手的项目，主要是玩梗，不要过激！***  >_<
 
 # EatUncleChen
 
 网页小游戏
 
-![叔叔我呀，是真的___](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/eatunclechen.png)
+![叔叔我呀，是真的___](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/NEW-eat-uncle-chen.png)
 
 ## 简介
 
@@ -12,9 +12,11 @@
 
 [叔叔主页](https://space.bilibili.com/208259)
 |
-[线上版本](https://蒙古上单.cn)
+[Vercel 项目](https://蒙古上单.cn)
 |
 [Github Pages](https://yandao0313.github.io/EatUncleChen)
+|
+[CF Pages - 镜像](https://eatchenrui.pages.dev/)
 |
 [我的小站](https://www.daoblog.top)
 
